@@ -16,3 +16,7 @@ Change to the Linear Regression directory and use the following command to run:
 Change to the perceptron directory and use the following command to run:
 > cd Perceptron
 > bash run.sh
+# SVM 
+Change to the SVM directory and use the following command to run:
+> cd SVM
+> bash run.sh
