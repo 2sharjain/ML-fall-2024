@@ -20,3 +20,11 @@ Change to the perceptron directory and use the following command to run:
 Change to the SVM directory and use the following command to run:
 > cd SVM
 > bash run.sh
+# Neural Networks 
+Change to the NeuralNetworks directory and use the following command to run:
+> cd NeuralNetworks
+> bash run.sh
+# Logistic Regression
+Change to the LogisticRegression directory and use the following command to run:
+> cd LogisticRegression
+> bash run.sh
